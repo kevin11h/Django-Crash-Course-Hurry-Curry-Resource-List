@@ -1,0 +1,1 @@
+# Django-Crash-Course-Hurry-Curry-Resource-List
