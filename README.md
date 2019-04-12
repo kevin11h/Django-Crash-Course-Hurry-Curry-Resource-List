@@ -1,4 +1,4 @@
-# Django-Crash-Course-Hurry-Curry-Resource-List
+# Django-Crash-Course-Hurry-Curry-Delux-Resource-List
 
 ## DjangoProject
 + https://docs.djangoproject.com/en/2.0/intro/tutorial01/
@@ -17,3 +17,6 @@
 
 ## Blog Resources
 + https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0
+
+## Udemy
++ https://www.udemy.com/python-django-dev-to-deployment/
