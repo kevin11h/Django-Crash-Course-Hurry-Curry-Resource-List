@@ -15,3 +15,5 @@
 ## Mastery Book
 + https://djangobook.com/mastering-django-2-book/
 
+## Blog Resources
++ https://medium.com/@taranjeet/adding-forms-dynamically-to-a-django-formset-375f1090c2b0
